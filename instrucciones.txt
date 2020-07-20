@@ -1,0 +1,20 @@
+/*COLLAGE GENERATOR : 
+
+ Realizado por Jpupper.
+ facebook/Jpupper
+ 
+ //TECLAS :
+ B: isbg on;
+ a,s: elegir imagen
+ c : borrar ultimaimagenpuesta r
+ g : show/hide gui
+ f : selecionar filtro
+ i : mover/parar imagenes
+ h : guardarimagen
+ r : borrar todas las imagenes
+ 1-8 : filtros.
+ 0 : cancelar filtros
+n,m alpha
+ cllick izquierdo : una sola foto;
+ click derecho : click de fotos */
+ 
